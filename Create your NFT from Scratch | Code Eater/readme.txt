@@ -1,0 +1,1 @@
+node scripts/mint-nft.js run this command to generate nft. 
